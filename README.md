@@ -4,7 +4,7 @@
 
 <h1 align="center">I'm Ctrl+Alt+Nerd</h1>
 <h3 align="center">Software engineer and automation geek</h3>
-
+<br>
 🌱 Currently studying ML + deep learning, and strengthening my MERN stack skills
 <br>
 💞️ I get excited about collaborating on just about anything. But say "automation" and I'm all ears!
