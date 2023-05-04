@@ -93,15 +93,12 @@
   </a>
 </div>
 <br/>
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=controlaltnerd&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="controlaltnerd's GitHub stats" />
+ 
+<!--<img src="https://github-readme-stats.vercel.app/api?username=controlaltnerd&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="controlaltnerd's GitHub stats" />-->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=controlaltnerd&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=controlaltnerd&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=controlaltnerd&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=controlaltnerd&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />-->
 
 <!-- ## Recent Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -113,8 +110,8 @@
   <img src="https://komarev.com/ghpvc/?username=controlaltnerd&&style=flat-square" align="center" />
 </div>
 <br/>
-<div align="center">
+<!--<div align="center">
   <a href="https://www.buymeacoffee.com/controlaltnerd" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" />
   </a>
-</div>
+</div>-->
