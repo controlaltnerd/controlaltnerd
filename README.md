@@ -11,9 +11,9 @@
 <br>
 💬 Ask me about building a self-taught CS career
 <br>
-📝 Check out my website: **[controlaltnerd.com](https://controlaltnerd.com)**
+📝 Check out my website: [controlaltnerd.com](https://controlaltnerd.com)
 <br>
-📫 You can reach me on Twitter (when their servers are up): **[@controlaltnerd](https://twitter.com/controlaltnerd)**
+📫 You can reach me on Twitter (when their servers are up): [@controlaltnerd](https://twitter.com/controlaltnerd)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
