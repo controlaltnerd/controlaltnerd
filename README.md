@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-<h1 align="center">I'm Ctrl+Alt+Nerd</h1>
+<h1 align="center">I'm Control+Alt+Nerd</h1>
 <h3 align="center">Software engineer and automation geek</h3>
 <br>
 🌱 Currently studying ML + deep learning, and strengthening my MERN stack skills
@@ -11,9 +11,10 @@
 <br>
 💬 Ask me about building a self-taught CS career
 <br>
-📝 Check out my website: [controlaltnerd.com](https://controlaltnerd.com)
+
+📝 Check out my website: **[controlaltnerd.com](https://controlaltnerd.com)**
 <br>
-📫 You can reach me on Twitter (when their servers are up): [@controlaltnerd](https://twitter.com/controlaltnerd)
+📫 You can reach me on Twitter (when their servers are up): **[@controlaltnerd](https://twitter.com/controlaltnerd)**
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
